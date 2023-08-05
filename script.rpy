@@ -28,6 +28,8 @@ label start:
 
     e "hell yeah."
 
+    e "here be damnation daniel!"
+
 
     # This ends the game.
 
