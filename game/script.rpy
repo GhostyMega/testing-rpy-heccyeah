@@ -45,7 +45,7 @@ label start:
     show eileen happy
     with fade
 
-    Detective "hell yeah."
+    Detective "hell yeah ."
 
 
 
