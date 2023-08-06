@@ -45,7 +45,7 @@ label start:
     show eileen happy
     with dissolve
 
-    Detective "hell yeah."
+    Detective "hell yeah ."
 
 
 
