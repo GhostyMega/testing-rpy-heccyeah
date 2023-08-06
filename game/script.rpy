@@ -43,7 +43,7 @@ label start:
     "...whew what a night those cats couldnt stop screaming"
 
     show eileen happy
-    with fade
+    with dissolve
 
     Detective "hell yeah."
 
